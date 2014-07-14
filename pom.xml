@@ -11,6 +11,7 @@
     <modules>
         <module>RelationalDataAccessJDBC</module>
         <module>HelloWorldRESTService</module>
+        <module>SimpleRESTClientSpring</module>
     </modules>
 
 
